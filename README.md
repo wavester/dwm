@@ -1,3 +1,6 @@
-# dwm
+# dwm-wavy
 
-My DWM fork.
+This is my customized fork of DWM.
+
+![Screenshot of the rice](screenshot.png)
+
