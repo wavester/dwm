@@ -1,4 +1,4 @@
-# dwm
+# [dwm]
 
 This is my customized fork of DWM.
 
