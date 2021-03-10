@@ -1,6 +1,6 @@
-# [dwm]
+![](https://dwm.suckless.org/dwm.svg)
 
-This is my customized fork of DWM.
+This is my customized fork of dwm.
 
-![Screenshot](screenshot.png)
+![](screenshot.png)
 
